@@ -1,6 +1,6 @@
 # Astro-Bot
 
-##Features:
+## Features:
 - Astronomy Picture of the day
 - Horoscope
 - People In Space
