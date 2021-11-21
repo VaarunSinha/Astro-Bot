@@ -17,3 +17,5 @@ Our team was broken, one person didn't do anything the other sent copied code, s
 ## Conributors
 - Me
 - @miffy on discord 
+
+## Try it on Astro Bot's official discord server: https://discord.gg/ARMwCBXF type $helpme to see all commands!
