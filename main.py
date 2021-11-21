@@ -34,7 +34,7 @@ async def hs(ctx, arg):
 
 @client.command()
 async def helpme(ctx):
- await ctx.send("List of commands:\n1.$hs {star}: this command takes your star, and messages your horoscope.\n 2. $pis: This command messages which astronauts are there in space right now!.\n 3. $joke this messages a fun joke! \n 3. $apod: Astronomy picture of the day")
+ await ctx.send("List of commands:\n1.$hs {star}: this command takes your star, and messages your horoscope.\n 2. $pis: This command messages which astronauts are there in space right now!. \n 3. $apod: Astronomy picture of the day")
 
 @client.command()
 async def pis(ctx):
